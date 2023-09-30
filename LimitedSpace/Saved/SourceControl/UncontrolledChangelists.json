@@ -21,7 +21,17 @@
 				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
 				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/RespawnPoint.uasset",
-				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/A6/ED0JDO7CS2RVRLVLYPT1TI.uasset"
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/A6/ED0JDO7CS2RVRLVLYPT1TI.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/CandleMaterial.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/CandleMaterial_Alpha.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/CandleMaterial_BaseColor.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/CandleMaterial_Displacement.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/CandleMaterial_Emission.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/CandleMaterial_Metallic.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/CandleMaterial_Normal.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/CandleMaterial_Roughness.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/CandleRaw.uasset"
 			]
 		}
 	]
