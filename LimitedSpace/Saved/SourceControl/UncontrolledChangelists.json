@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/Lava.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/6L/4UUURTK4F5ZJBJ8H7XXKZ5.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/JG/J5ZO9QS2JTC3ENCNWJUN73.uasset"
+			]
+		}
+	]
+}
