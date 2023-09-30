@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/joshd/Documents/GitHub/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/Level1/D/W0/WS7QB85XFNASOP0MWAHMBW.uasset",
 				"C:/Users/joshd/Documents/GitHub/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/Level1/B/7N/APC0YEOJJTP8NN6M1PJPZP.uasset",
 				"C:/Users/joshd/Documents/GitHub/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/Level1/3/WD/6U8BX78E31GXK4I94TT4MZ.uasset",
@@ -101,6 +102,29 @@
 				"C:/Users/joshd/Documents/GitHub/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/Level1/8/NB/I17NUDWXDEE8CMG11VNPVD.uasset",
 				"C:/Users/joshd/Documents/GitHub/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/Level1/7/IN/EBQOBUD48ER8498KA5GULO.uasset",
 				"C:/Users/joshd/Documents/GitHub/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/Level1/7/OQ/2QTCHOK4STE9NXNO5DWNY8.uasset",
+=======
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/Lava.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/8I/1RZDXM30BVVUV2QOW7DBUZ.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/Lever.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/FirstPerson/Blueprints/ControlPlayer1.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/LR/Z8IK3FQBHSWQU078V9O6O5.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/7M/598F1MAYAP7E32GFFKJA5V.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/Q8/J33MQQ49U7HHAWHUJT19LH.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/Coin.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/MZ/RQQLVAU9OZSKSPDYJ35T3X.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CS/559Q1003N75ZHWPGPTHN8B.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/79/9GIM1QBQHJN6N4PJHQQU0L.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Skeleton.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Physics.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/Corpse.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/FirstPersonArms/Character/Mesh/SK_Mannequin.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VO/VMN4G7K3NKKV6F8HTPHHDB.uasset",
+				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/FirstPerson/Blueprints/Controller.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/anima/Documents/GitHub/LimitedSpace/LimitedSpace/Content/Tristan_Materials/M_Lava.uasset",
 				"C:/Users/anima/Documents/GitHub/LimitedSpace/LimitedSpace/Content/Tristan_Materials/M_Lava_Inst.uasset",
 				"C:/Users/anima/Documents/GitHub/LimitedSpace/LimitedSpace/Content/Tristan_Materials/M_PixelEffect.uasset",
@@ -108,9 +132,6 @@
 				"C:/Users/anima/Documents/GitHub/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/D7/BVYN8J6OJA78HMG3JOHTKH.uasset",
 				"C:/Users/anima/Documents/GitHub/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3Z/IOHVA08ONT4S3P8QCKHBNQ.uasset",
 				"C:/Users/anima/Documents/GitHub/LimitedSpace/LimitedSpace/Content/LevelPrototyping/MaterialTestLevel.umap",
-				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/Blueprints/Lava.uasset",
-				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/8I/1RZDXM30BVVUV2QOW7DBUZ.uasset",
-				"C:/Users/cguim/Desktop/LimitedSpace/LimitedSpace/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"C:/Users/cguim/Desktop/LimitedSpace/LimitSpace/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
